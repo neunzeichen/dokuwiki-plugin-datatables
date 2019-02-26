@@ -41,7 +41,7 @@ function init_datatables($target_table, dt_config) {
   }
 
   if (jQuery('thead > tr', $target_table).size() && ! jQuery('tbody', $target_table).find('[rowspan], [colspan]').length) {
-    $target_table.attr('width', '98%');
+    $target_table.attr('width', '99%');
     $target_table.DataTable(dt_config);
   }
 
