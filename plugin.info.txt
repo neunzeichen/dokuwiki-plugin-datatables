@@ -1,5 +1,5 @@
 base datatables
-author Giuseppe Di Terlizzi deha
+author Giuseppe Di Terlizzi modidified by deha
 email giuseppe.diterlizzi@gmail.com
 date 2019-02-26
 name DataTables Plugin
